@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /includes/
+Disallow: /protected_uploads/
+Disallow: /checkout.php
+Disallow: /profile.php?id=*
+
+Sitemap: https://heavenmarriage.com/sitemap.xml
